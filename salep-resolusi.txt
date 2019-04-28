@@ -2,3 +2,5 @@ Test resolusi:
 1. Belajar Android
 2. Belajar Web programming
 3. Belajar Musik
+4, Membuat aplikasi android
+5. Membuat aplikasi desktop
